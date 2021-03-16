@@ -9,7 +9,7 @@ function upperCaseCustomerName() {
 // PROBLEMATIC FUNCTION //
 
 function setBestCustomer() {
-  var bestCostumer = 'not bob';
+  bestCustomer = 'not bob';
 }
 
 // seemingly the end of errors... //
